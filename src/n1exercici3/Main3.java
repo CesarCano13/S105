@@ -16,16 +16,17 @@ public class Main3 {
 		/*String ruta = "";
 
 		if (args.length > 1) {
-			System.out.println("Hay demasiados parámetros. Debe escribir: saludo nombrePersona");
+			System.out.println("Hay demasiados parámetros, solo debe pasar 1");
 		} else if (args.length == 0) {
 			System.out.println("Falta introducir el parámetro");
 		} else {
 			ruta = args[0];
+			
+			//JavaUtil.leerArchivo(ruta);
+			// JavaUtil.ordenar();
+			// JavaUtil.listarDirectorios();
 		}*/
 
-		//JavaUtil.leerArchivo(ruta);
-		// JavaUtil.ordenar();
-		// JavaUtil.listarDirectorios();
 		JavaUtil.escribirFichero();
 
 	}

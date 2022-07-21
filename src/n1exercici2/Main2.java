@@ -15,16 +15,16 @@ public class Main2 {
 		String ruta = "";
 
 		if (args.length > 1) { // si hay más de 1 parámetro
-			System.out.println("Hay demasiados parámetros. Debe escribir: saludo nombrePersona");
+			System.out.println("Hay demasiados parámetros, solo debe pasar 1");
 		} else if (args.length == 0) { // si no hay parámetros
 			System.out.println("Falta introducir el parámetro");
 		} else {
 			ruta = args[0];
-		}
 
-		JavaUtil.leerArchivo(ruta);
-		// JavaUtil.ordenar();
-		JavaUtil.listarDirectorios();
+			JavaUtil.leerArchivo(ruta);
+			// JavaUtil.ordenar();
+			JavaUtil.listarDirectorios();
+		}
 
 	}
 
