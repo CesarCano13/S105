@@ -8,7 +8,7 @@ Para los ejercicios que tenemos pasar argumentos por CMD es da la sigueinte form
 	
 ![2](https://user-images.githubusercontent.com/109173268/180196812-b8480464-fd07-4285-82a4-c52c8b141348.jpg)
 
-3º Un vez ya lo tenemos copilado (se crea una archivo .class con el nombre de la clase), pasamor el argumento con el comando java "nombre de la clase" "argumento"
+3º Un vez ya lo tenemos copilado (se crea una archivo .class con el nombre de la clase), pasamor el argumento con el comando java "nombre de la clase" "argumento".
 	
 ![3](https://user-images.githubusercontent.com/109173268/180196815-2c374c93-0cbe-41dd-b3a9-67b4a7d6cffe.jpg)
 ![4](https://user-images.githubusercontent.com/109173268/180196817-e324d1b2-67a0-4c9b-bc41-e506a8435ddc.jpg)
